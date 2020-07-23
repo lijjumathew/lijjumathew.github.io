@@ -5,6 +5,6 @@ navbar:
     - text: "About Me"
       href: AboutMe.html
     - text: "Case Study 1 - Beer Analysis"
-      href: index.html
+      href: Case_Study1.html
     - text: "RShiny App"
       href: index.html
