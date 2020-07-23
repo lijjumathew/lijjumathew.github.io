@@ -7,4 +7,4 @@ navbar:
     - text: "Case Study 1 - Beer Analysis"
       href: Case_Study1.html
     - text: "RShiny App"
-      href: index.html
+      href: rshinnyapp.html
