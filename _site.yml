@@ -2,5 +2,9 @@ name: "lijjumathew"
 navbar:
   title: "Lijju Mathew"
   left:
-    - text: "Home"
+    - text: "About Me"
+      href: index.html
+    - text: "Case Study 1 - Beer Analysis"
+      href: index.html
+    - text: "RShiny App"
       href: index.html
