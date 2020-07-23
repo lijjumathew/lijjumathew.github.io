@@ -1,0 +1,6 @@
+name: "lijjumathew"
+navbar:
+  title: "Lijju Mathew"
+  left:
+    - text: "Home"
+      href: index.html
